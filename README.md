@@ -1,6 +1,6 @@
-# uiclg
+# Offline Voting Application
 
-A new Flutter project.
+Using F L U T T E R
 
 ## Getting Started
 
